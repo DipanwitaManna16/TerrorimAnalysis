@@ -1,2 +1,2 @@
-# TerrorimAnalysis
-Terrorism Analysis and finding insights project
+# Terrorism_Analysis
+Terrorism Analysis and Finding Insights Project

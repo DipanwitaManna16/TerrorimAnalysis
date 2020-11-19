@@ -1,5 +1,5 @@
-# Terrorism_Analysis 
-Terrorism Analysis and Finding Insights Project
+
+# Terrorism Analysis and Finding Insights Project
 
 
 The main motto of this project is to provide insights by analyzing the data for "global terrorism data set "which has about 1,90,000 records, using Dash framework in python.
